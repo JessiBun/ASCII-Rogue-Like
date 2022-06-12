@@ -28,7 +28,7 @@ Watch your health and be sure to use the potions, as there's only one life in th
 To use an item:
     Open inventory with i, use letter listed to consume
     <img src=https://github.com/JessiBun/ASCII-Rogue-Like/blob/main/Screenshots/Screen3.png width="700" height="500">
-    <img src=https://github.com/JessiBun/ASCII-Rogue-Like/blob/840286b4103ca8e0bafb228e235fa02138b7efd7/Screenshots/Screen4.png width="700" height="500">
+    <img src=https://github.com/JessiBun/ASCII-Rogue-Like/blob/main/Screenshots/Screen4.png width="700" height="500">
  
  ## Known Issues
   - spells return math error
